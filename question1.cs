@@ -26,3 +26,4 @@ namespace Array
         }
     }
 }
+// i have not used exception handling as it was not needed
