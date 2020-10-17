@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Array
 {
-    class Program2
+    class question1
     {
         static int len;
         static void DiaplayArray(int[] arr)
